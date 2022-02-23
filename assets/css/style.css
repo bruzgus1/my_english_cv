@@ -154,3 +154,7 @@ label {
 input:checked+label {
     background: #79A9CE;
 }
+
+.link {
+    color: #ff0000;
+}
